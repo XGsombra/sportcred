@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064530326740",
+    "firebase_url": "https://sportcred-cf0ed.firebaseio.com",
+    "project_id": "sportcred-cf0ed",
+    "storage_bucket": "sportcred-cf0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064530326740:android:66923e210dc72c71fdb741",
+        "android_client_info": {
+          "package_name": "com.example.sportcred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064530326740-kt7d3n0vlprs1tegln93eeccmhlkda6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportcred",
+            "certificate_hash": "e4c14b912875a1e74046aef5963499caf1431c53"
+          }
+        },
+        {
+          "client_id": "1064530326740-vepjsintcjiscsvgcdd9te4p8uv7b8eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRajpyJ7pFp36DOc_h6o5SSE8519sM5qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064530326740-vepjsintcjiscsvgcdd9te4p8uv7b8eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
