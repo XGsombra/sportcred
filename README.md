@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  Welcome to sportcred, a networking app for sports fans. In sportcred, you could contribute you sports knowledge to the community.
+</p>
+
 ## Technologies Used
 * [Flutter](https://flutter.dev/)
     * [Shared Preference](https://pub.dev/packages/shared_preferences)
