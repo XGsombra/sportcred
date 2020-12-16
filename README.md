@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tiafs/sportcred">
-    <img href="screenshots/logo.png"></img>
+    <img src="screenshots/logo.png">
   </a>
 </p>
 
